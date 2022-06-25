@@ -3,10 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.myfirst_broadcastreceiver">
 
-<!--    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />-->
+    <!--    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />-->
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-<!--    <uses-permission android:name="android.permission.READ_SMS"/>-->
-<!--    <uses-permission android:name="android.permission.RECEIVE_SMS"/>-->
+    <!--    <uses-permission android:name="android.permission.READ_SMS"/>-->
+    <!--    <uses-permission android:name="android.permission.RECEIVE_SMS"/>-->
 
     <application
         android:allowBackup="true"

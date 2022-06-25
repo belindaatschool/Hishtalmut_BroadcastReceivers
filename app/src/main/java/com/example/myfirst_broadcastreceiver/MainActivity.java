@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onStart() {
-        super.onStart();//hhhh
+        super.onStart();//hhhh hahaha
         IntentFilter filter = new IntentFilter(WifiManager.WIFI_STATE_CHANGED_ACTION);
 //        IntentFilter filter = new IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION);
         registerReceiver(wifiReceiver, filter);
