@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyFirst_BroadcastReceiver</string>
+    <string name="app_name">My First BroadcastReceiver</string>
+    <string name="update_me">Update Me!</string>
+    <string name="cancel_me">ביטול!</string>
 </resources>
